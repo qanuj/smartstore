@@ -1,4 +1,0 @@
-smartstore
-==========
-
-Smart Store
